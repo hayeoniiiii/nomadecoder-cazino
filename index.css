@@ -1,0 +1,35 @@
+.hidden {
+  display: none;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.generateNum {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  font-size: 20px;
+}
+
+.generateNum form {
+  margin: 5px;
+  width: 100px;
+}
+
+.guessNum {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.guessNum form {
+  margin-left: 5px;
+}
+
+.result p {
+  margin: 0px;
+}
